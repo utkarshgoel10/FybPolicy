@@ -6,6 +6,12 @@ html {
     width: 100%;
     padding:70px 0px;
 }
+.nav-link {
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
 
 .title-text {
     text-align: center;
